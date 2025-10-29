@@ -7,13 +7,13 @@ https://youtube.com/shorts/pRncZ-GuOEc
 
 1. Primeiro eu separei os componentes necessarios, que são: 
 <p align="center">
-  <img src="../assets/componentes.png" alt="componentes" width="520">
+  <img src="componentes.png" alt="componentes" width="520">
 </p>
 
 2. Depois foi feita a montagem, ligando os terminais negativos dos LEDS, diretamente na linha terra da protoboard que está conectada ao GND do Arduino. Os terminais possitivos dos LEDS foram ligados nos pinos 2, 3 e 4 no Arduino (vermelho no 2, Amarelo no 3 e verde no 4) e essa ligação foi feita por meio dos resistores.
 
 <p align="center">
-  <img src="../assets/foto-montagem.jpg" alt="componentes" width="520">
+  <img src="foto-montagem.jpg" alt="foto-montagem" width="520">
 </p>
 
 ## Tabelas de Avaliação entre Pares
